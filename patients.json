@@ -1,0 +1,83 @@
+{
+  "P001": {
+    "name": "Ali Raza",
+    "city": "Karachi",
+    "age": 29,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 82.3,
+    "bmi": 26.78,
+    "verdict": "Overweight"
+  },
+  "P002": {
+    "name": "Ayesha Khan",
+    "city": "Lahore",
+    "age": 25,
+    "gender": "female",
+    "height": 1.62,
+    "weight": 58,
+    "bmi": 22.10,
+    "verdict": "Normal"
+  },
+  "P003": {
+    "name": "Bilal Ahmed",
+    "city": "Islamabad",
+    "age": 34,
+    "gender": "male",
+    "height": 1.80,
+    "weight": 95,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Sara Malik",
+    "city": "Faisalabad",
+    "age": 31,
+    "gender": "female",
+    "height": 1.68,
+    "weight": 90,
+    "bmi": 31.89,
+    "verdict": "Obese"
+  },
+  "P005": {
+    "name": "Hamza Tariq",
+    "city": "Rawalpindi",
+    "age": 27,
+    "gender": "male",
+    "height": 1.73,
+    "weight": 67,
+    "bmi": 22.38,
+    "verdict": "Normal"
+  },
+  "P006": {
+    "name": "Fatima Noor",
+    "city": "Hyderabad",
+    "age": 23,
+    "gender": "female",
+    "height": 1.58,
+    "weight": 47,
+    "bmi": 18.83,
+    "verdict": "Underweight"
+  },
+  "P007": {
+    "name": "Usman Siddiqui",
+    "city": "Multan",
+    "age": 38,
+    "gender": "male",
+    "height": 1.76,
+    "weight": 102,
+    "bmi": 32.91,
+    "verdict": "Obese"
+  },
+  "P008": {
+    "name": "Hira Iqbal",
+    "city": "Quetta",
+    "age": 28,
+    "gender": "female",
+    "height": 1.63,
+    "weight": 70,
+    "bmi": 26.35,
+    "verdict": "Overweight"
+  }
+}
+
